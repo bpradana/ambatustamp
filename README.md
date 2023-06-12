@@ -1,7 +1,10 @@
-# Ambatustamp
-# ![](assets/logo.png)
-**Simple PDF stamping tool built with Go**
-*It's so simple, it makes you want to stamp!*
+<h1 style="text-align: center;">Ambatustamp</h1>
+<p align="center">
+  <img width="300" height="300" src="assets/logo.png">
+</p>
+<p style="text-align: center;"><b>Simple PDF stamping tool built with Go</b></p>
+<p style="text-align: center;"><i>It's so simple, it makes you want to stamp!</i></p>
+
 
 ## What is Ambatustamp?
 Ambatustamp is a so-called "simple" PDF stamping tool built with Go. It claims to make document stamping easy, but don't get your hopes up.
